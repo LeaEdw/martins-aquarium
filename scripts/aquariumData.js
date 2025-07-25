@@ -52,7 +52,7 @@ export const database = {
             name: "Gabriel",
             species: "Angelfish",
             length: 15,
-            location: "Great Barrier Reef",
+            location: "the Great Barrier Reef",
             diet: "omnivore",
             image: "https://cdn.britannica.com/54/13454-004-D8141F68/Emperor-angelfish.jpg"
         }
