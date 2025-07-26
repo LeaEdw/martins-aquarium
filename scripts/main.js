@@ -13,3 +13,5 @@ const fishHTML = fishList();
 
 // Render each HTML string to the correct DOM element
 
+const showMeYourFish = document.getElementById('fishList')
+showMeYourFish.innerHTML = fishHTML
