@@ -1,0 +1,38 @@
+main {
+    background-color: lightslategray;
+    padding: 0%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    text-align: left;
+    padding: 10px 0px;
+    width: 100%;
+}
+
+
+aside {
+    background-color: cornsilk;
+    padding: 15px;
+    margin: 15px;
+
+    
+}
+
+.tips {
+    padding: 20px;
+    background-color: rgb(196, 233, 231);
+    border-radius: 20px;
+}
+
+
+
+ul {
+    list-style-type: none;
+}

@@ -60,6 +60,14 @@ export const database = {
       image:
         "<https://intanaquariumfeeds.com/cdn/shop/articles/3…th-dark-background_23-2150721042.jpg?v=1715687210>",
     },
+    {
+        name: "Jack",
+        species: "Anglerfish",
+        length: 16,
+        location: "Abyssal Plains",
+        diet: "carnivore",
+        image: "<https://ask-nature.sfo3.digitaloceanspaces.com/wp-content/uploads/2011/06/31142638/Anglerfish.jpg>",
+    }
   ],
   tips: [
     {
@@ -97,7 +105,7 @@ export const database = {
     },
     {
         name: "Saltwater Lakes",
-        country: "Dead Sea",
+        country: "Palestine",
         description: "The Dead Sea is one of the world's saltiest bodies of water with a salinity of 34.2% - it is 9 times saltier than the ocean!"
     },
     {

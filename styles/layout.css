@@ -1,0 +1,60 @@
+#fishList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 0px 50px 20px;
+  text-align: center;
+  max-width: 70%;
+}
+
+article {
+  flex-basis: 300px;
+  background-color: cornsilk;
+  border-radius: 20px;
+  padding: 15px;
+  flex-shrink: 1;
+  gap: 10px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+#locationList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 20px 50px 20px;
+  text-align: center;
+  max-width: 60%;
+}
+
+.locations {
+  flex-basis: 300px;
+  background-color: cornsilk;
+  border-radius: 20px;
+  padding: 15px;
+  flex-shrink: 1;
+  gap: 10px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+section {
+  gap: 20px;
+  padding: 20px;
+}
+
+
+aside {
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+  gap: 20px;
+  padding: 20px;
+  width: 20%;
+  margin-top: 3%;
+  border-radius: 20px;
+}
