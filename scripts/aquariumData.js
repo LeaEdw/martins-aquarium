@@ -6,7 +6,7 @@ export const database = {
       length: 3,
       location: "the Great Barrier Reef",
       diet: "omnivore",
-      image: "<https://example.com/images/nemo.jpg>",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg/1200px-Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
     },
     {
       name: "Dory",
@@ -14,7 +14,7 @@ export const database = {
       length: 5,
       location: "the Great Barrier Reef",
       diet: "omnivore",
-      image: "<https://example.com/images/dory.jpg>",
+      image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG",
     },
     {
       name: "Darcy",
@@ -23,7 +23,7 @@ export const database = {
       location: "Freshwater Rivers",
       diet: "omnivore",
       image:
-        "<https://cdn.britannica.com/82/12482-050-1CD512EB/European-dace-leuciscus-leuciscus.jpg>",
+        "https://cdn.britannica.com/82/12482-050-1CD512EB/European-dace-leuciscus-leuciscus.jpg",
     },
     {
       name: "Yin",
@@ -31,7 +31,7 @@ export const database = {
       length: 55,
       location: "Freshwater",
       diet: "omnivore",
-      image: "<https://www.britannica.com/animal/koi-fish>",
+      image: "https://animals.sandiegozoo.org/sites/default/files/2016-11/Koi.jpg",
     },
     {
       name: "Toni",
@@ -40,7 +40,7 @@ export const database = {
       location: "Freshwater",
       diet: "omnivore",
       image:
-        "<https://cdn.britannica.com/09/141409-050-B2D865E6/Mozambique-tilapia.jpg>",
+        "https://cdn.britannica.com/09/141409-050-B2D865E6/Mozambique-tilapia.jpg",
     },
     {
       name: "Saul",
@@ -49,7 +49,7 @@ export const database = {
       location: "Freshwater",
       diet: "omnivore",
       image:
-        "<https://cdn.britannica.com/50/117550-050-874E841A/Atlantic-salmon.jpg>",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczJlAgFu7PeRMpJesSy_JMgwQFgTEDv0KkA&s",
     },
     {
       name: "Gabriel",
@@ -58,7 +58,7 @@ export const database = {
       location: "the Great Barrier Reef",
       diet: "omnivore",
       image:
-        "<https://intanaquariumfeeds.com/cdn/shop/articles/3…th-dark-background_23-2150721042.jpg?v=1715687210>",
+        "https://www.4ocean.com/cdn/shop/articles/shutterstock_598583180.jpg?v=1707269243&width=1600",
     },
     {
         name: "Jack",
@@ -66,7 +66,7 @@ export const database = {
         length: 16,
         location: "Abyssal Plains",
         diet: "carnivore",
-        image: "<https://ask-nature.sfo3.digitaloceanspaces.com/wp-content/uploads/2011/06/31142638/Anglerfish.jpg>",
+        image: "https://ask-nature.sfo3.digitaloceanspaces.com/wp-content/uploads/2011/06/31142638/Anglerfish.jpg",
     }
   ],
   tips: [

@@ -12,9 +12,10 @@ h1 {
 
 h2 {
     text-align: left;
-    padding: 10px 0px;
-    width: 100%;
+    font-size: 2em;
+
 }
+
 
 
 aside {
@@ -31,8 +32,13 @@ aside {
     border-radius: 20px;
 }
 
-
-
 ul {
     list-style-type: none;
+}
+
+img {
+    padding: 5px;
+    width: 150px;
+    display: block;
+    margin: auto;
 }

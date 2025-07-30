@@ -1,7 +1,7 @@
 import { database } from "./aquariumData.js";
 
 export const fishList = () => {
-  let fishCard = '<h2>Fish</h2>\n'
+  let fishCard = '<h2 class=\"fish_title\">Fish</h2>'
 
   for (const fish of database.fish) {
     fishCard += `
