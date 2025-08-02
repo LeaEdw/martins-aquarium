@@ -1,5 +1,4 @@
 main {
-    background-color: lightslategray;
     padding: 0%;
     display: flex;
     flex-wrap: wrap;
@@ -13,23 +12,21 @@ h1 {
 h2 {
     text-align: left;
     font-size: 2em;
-
 }
-
-
 
 aside {
-    background-color: cornsilk;
     padding: 15px;
-    margin: 15px;
-
-    
+    margin: 15px; 
+    max-height: fit-content;
 }
 
+
 .tips {
-    padding: 20px;
-    background-color: rgb(196, 233, 231);
-    border-radius: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  transition: transform 0.3s ease;
 }
 
 ul {
@@ -37,8 +34,8 @@ ul {
 }
 
 img {
-    padding: 5px;
-    width: 150px;
-    display: block;
+    display: flex;
+    justify-content: center;
+    width: 100%;
     margin: auto;
 }

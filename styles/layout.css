@@ -10,15 +10,24 @@
 
 article {
   flex-basis: 300px;
-  background-color: rgb(196, 233, 231);
-  border-radius: 20px;
   padding: 15px;
   flex-shrink: 1;
   gap: 10px;
   margin-bottom: 15px;
   display: flex;
   flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  transition: transform 0.3s ease;
 }
+
+article:hover {
+  transform: translateY(-5px);
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
+}
+
 
 #locationList {
   display: flex;
@@ -32,15 +41,17 @@ article {
 
 .locations {
   flex-basis: 300px;
-  background-color: rgb(196, 233, 231);
-  border-radius: 20px;
   padding: 15px;
   flex-shrink: 1;
   gap: 10px;
   margin-bottom: 15px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  transition: transform 0.3s ease;
 }
 
 aside {
@@ -51,7 +62,11 @@ aside {
   padding: 20px;
   width: 20%;
   margin-top: 3%;
+  background-color: #ffffff;
   border-radius: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  transition: transform 0.3s ease;
 }
 
 .tip_title {
