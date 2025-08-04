@@ -8,7 +8,7 @@ export const fishList = () => {
     <article class="fish">
       <img src="${fish.image}" alt="image of ${fish.species}" class="fish_image">
         <div class="fish_text">
-          <h3 class="fish_name">${fish.name}</h2>
+          <h3 class="fish_name">${fish.name} (${fish.length})</h2>
           <p class="fish_species">- ${fish.species} -</p>
         </div>
     </article>`

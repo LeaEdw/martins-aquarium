@@ -79,7 +79,7 @@ export const database = {
       location: "Freshwater",
       diet: "omnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Goldfish3.jpg/1200px-Goldfish3.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjiqP4Ph2qY4XUkntF-uzarzzNIvsdIUsKtIsRrraUh9LuySThCVNU4msqJmNDZxDw1y3ku1us9u1jJ96060rRA",
     },
     {
       name: "Rex",
@@ -97,7 +97,7 @@ export const database = {
       location: "Tropical Oceans",
       diet: "planktivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Manta_birostris-Thailand4.jpg/1200px-Manta_birostris-Thailand4.jpg",
+        "https://mantarayadvocates.com/wp-content/uploads/2024/03/spotted-eagle-ray-a-common-type-of-ray.jpeg",
     },
     {
       name: "Oscar",
@@ -106,7 +106,7 @@ export const database = {
       location: "Amazon River",
       diet: "omnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astronotus_ocellatus.jpg/1200px-Astronotus_ocellatus.jpg",
+        "https://www.thefishguy.co.za/wp-content/uploads/2022/10/oscar-fish-510x340.jpg",
     },
     {
       name: "Zippy",
@@ -115,7 +115,7 @@ export const database = {
       location: "Atlantic Ocean",
       diet: "carnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Yellowfin-tuna.jpg/1200px-Yellowfin-tuna.jpg",
+        "https://whipsawsportfishing.com/wp-content/uploads/2020/12/Yellowfin-Tuna-Hawaii.png",
     },
     {
       name: "Patches",
@@ -124,7 +124,7 @@ export const database = {
       location: "Coral Reefs",
       diet: "omnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Takifugu_rubripes.jpg/1200px-Takifugu_rubripes.jpg",
+        "https://www.australiangeographic.com.au/wp-content/uploads/2022/09/shutterstock_1751251697.jpg",
     },
     {
       name: "Finn",
@@ -133,7 +133,7 @@ export const database = {
       location: "Northern Lakes",
       diet: "carnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Esox_lucius1.jpg/1200px-Esox_lucius1.jpg",
+        "https://columbiabasinbulletin.org/wp-content/uploads/2020/02/pike.jpg",
     },
     {
       name: "Coral",
@@ -142,7 +142,7 @@ export const database = {
       location: "Pacific Coral Reefs",
       diet: "carnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Synchiropus_splendidus_2_Luc_Viatour.jpg/1200px-Synchiropus_splendidus_2_Luc_Viatour.jpg",
+        "https://97208546.m3nodes.com/wp-content/uploads/2019/06/mandarinfish-1050x700.jpg",
     },
     {
       name: "Storm",
@@ -151,7 +151,7 @@ export const database = {
       location: "Amazon Basin",
       diet: "carnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Electric_eel.jpg/1200px-Electric_eel.jpg",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnuUc5zbw4Thh6uimVEWUCvnRmZKkQySci2AXqo13-S_qmnejzw0ybQ4u2mQNXOKoJ6g7FllYAk4ppRIkEXue6iOEStRPR_ZpA-scQ3y7k_A",
     },
     {
       name: "Sunny",
@@ -160,7 +160,7 @@ export const database = {
       location: "Temperate Oceans",
       diet: "omnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mola_mola.png/1200px-Mola_mola.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqUz3Dfinoar3Q9CS0Z1G7lVPMgH0RD0R0aK68wafkiSf2LAF1SCXAp6-NREJURASnPblcLUU6_dFluoDD3DbbiC3RhwgeeilvNiJQHnGxm3pfkvbYQSk9Kl_qnsbv4XGVIUvmlDQRn8/s1600/sunfish.jpg",
     },
     {
       name: "Blaze",
@@ -169,7 +169,7 @@ export const database = {
       location: "Indo-Pacific",
       diet: "planktivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nemateleotris_magnifica.jpg/1200px-Nemateleotris_magnifica.jpg",
+        "https://aquaticcollection.com/cdn/shop/files/HelfritchiFirefish.jpg?v=1727290446&width=1445",
     },
     {
       name: "Archer",
@@ -178,7 +178,7 @@ export const database = {
       location: "Mangrove Swamps",
       diet: "carnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Toxotes_jaculatrix.jpg/1200px-Toxotes_jaculatrix.jpg",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkn8pNxkGEK_BO2mzR5-1eQkGfWbPm6xsLFxiJN_ZzxBUZPwux4Mhdlm1hnyF3gslWct_YBSoA8H__tvBPRwCRKIHlDpUk1NexUkt9SFcl",
     },
     {
       name: "Ruby",
@@ -187,7 +187,7 @@ export const database = {
       location: "Gulf of Mexico",
       diet: "carnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Red_snapper.jpg/1200px-Red_snapper.jpg",
+        "https://gulf-council-media.s3.amazonaws.com/uploads/2023/04/Red-2.png",
     },
     {
       name: "Mystic",
@@ -196,7 +196,7 @@ export const database = {
       location: "Tropical Reefs",
       diet: "carnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gymnothorax_javanicus_2.jpg/1200px-Gymnothorax_javanicus_2.jpg",
+        "https://a-z-animals.com/media/2022/09/iStock-1321250816-300x169.jpg",
     },
     {
       name: "Splash",
@@ -205,7 +205,7 @@ export const database = {
       location: "Mountain Streams",
       diet: "omnivore",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Oncorhynchus_mykiss.jpg/1200px-Oncorhynchus_mykiss.jpg",
+        "https://www.wildtrout.org/assets/img/general/_1280xAUTO_crop_center-center_none/rainbow_trout.jpg",
     },
   ],
   tips: [
